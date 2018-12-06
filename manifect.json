@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "Cookie Tray",
+  "version": "1.0",
+  "short_name": "cookie-tray",
+  "description": "Control/experiment with browser cookies"
+}
